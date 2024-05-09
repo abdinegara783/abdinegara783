@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdinegara783/](https://github.com/abdinegara783/)
 
-- 📝 I regularly write articles on [http://abdinegaraguci.com/](http://abdinegaraguci.com/)
-
 - 💬 Ask me about **Python, Web Development**
 
 - 📫 How to reach me **abdinegara783@gmail.com**
